@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hathami Almalki</h1>
+![image](https://github.com/user-attachments/assets/692d3706-66aa-4c47-b1b4-203ba128e55f)<h1 align="center">Hi 👋, I'm Hathami Almalki</h1>
 <div class="markdown-heading" dir="auto"><h2 align="center" class="heading-element" dir="auto"> IT fresh graduate | Interested in cybersecurity & Network | UI/UX design | IT Specialist</h2>
 
 
@@ -11,9 +11,12 @@
 
 </p>
 <br>
-<p dir="auto"><animated-image data-catalyst="" style="float: right;"><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" data-target="animated-image.originalLink"><img align="right" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+<p dir="auto"><animated-image data-catalyst="" style="float: right;"><a target="_blank" rel="noopener noreferrer nofollow" href="![image](https://github.com/user-attachments/assets/4241dd67-2624-4ca0-a98d-6daa70d8b90d)
+" data-target="animated-image.originalLink"><img align="right" src="![image](https://github.com/user-attachments/assets/e41cd86c-0093-483b-8010-266759ed8efa)
+" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
       <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
-        <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw0hzkMdTb953Jy370Ce5y_4&ust=1744587515730000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOCSi5PV04wDFQAAAAAdAAAAABBH" target="_blank">
+        <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="![image](https://github.com/user-attachments/assets/d3756dd6-ca8d-44d1-8727-087af07cc2d3)
+" target="_blank">
           
  <br>
  <br>
