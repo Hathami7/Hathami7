@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/692d3706-66aa-4c47-b1b4-203ba128e55f)<h1 align="center">Hi 👋, I'm Hathami Almalki</h1>
+<h1 align="center">Hi 👋, I'm Hathami Almalki</h1>
 <div class="markdown-heading" dir="auto"><h2 align="center" class="heading-element" dir="auto"> IT fresh graduate | Interested in cybersecurity & Network | UI/UX design | IT Specialist</h2>
 
 
