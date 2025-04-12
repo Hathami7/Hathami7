@@ -20,7 +20,7 @@
 <ul dir="auto">
    <li> I am a <code>Graduate with a Bachelor's degree in Information Technology </code> from Jazan University</li>
   <li> I received training in the <code>Cybersecurity program</code>at KAUST academy.</li>
-  <li> I am currently studying to obtain<code> a Professional Certificate</code></li>
+  <li> I am currently studying to obtain<code>a Professional Certificate</code></li>
   <li>📫 How to reach me: <strong><a href="mailto:hathami.almalki@gmail.com"><code>hathami.almalki@gmail.com</code></a></strong></li>
   <li>🤔 I’m currently open for a new <code>opportunity</code>. You can check my <a href="https://drive.google.com/file/d/1onYTIBTqsVZH6-Xzm-7s5fHQB3D1qHIe/view?usp=drivesdk" target="_blank" rel="noopener noreferrer"><code><strong>Resume</strong></code></a></li>
   <li>🤓 Always <code>learning new technologies</code> to stay updated.</li>
