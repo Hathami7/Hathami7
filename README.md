@@ -11,7 +11,7 @@
 
 </p>
 <br>
-<p dir="auto"><animated-image data-catalyst="" style="float: right;"><a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/user-attachments/assets/4241dd67-2624-4ca0-a98d-6daa70d8b90d" data-target="animated-image.originalLink"><img align="right" src="https://github.com/user-attachments/assets/e41cd86c-0093-483b-8010-266759ed8efa" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+<p dir="auto"><animated-image data-catalyst="" style="float: right;"><a target="_blank" rel="noopener noreferrer nofollow" 
       <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
         <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://github.com/user-attachments/assets/d3756dd6-ca8d-44d1-8727-087af07cc2d3" target="_blank">
           
