@@ -19,7 +19,7 @@
           
  <br>
  <br>
-<ul dir="lift">
+<ul dir="auto">
    <li> I am a <code>Graduate with a Bachelor's degree in Information Technology </code> from Jazan University</li>
   <li> I received training in the <code>Cybersecurity program</code>at KAUST academy.</li>
   <li> I am currently studying to obtain<code>a Professional Certificate</code></li>
