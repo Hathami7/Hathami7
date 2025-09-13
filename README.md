@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hathami Almalki</h1>
-<div class="markdown-heading" dir="auto"><h2 align="center" class="heading-element" dir="auto"> IT fresh graduate | Interested in cybersecurity & Network | UI/UX design | IT Specialist</h2>
+<div class="markdown-heading" dir="auto"><h2 align="center" class="heading-element" dir="auto"> IT graduate | Interested in cybersecurity & Network | UI/UX design | IT Specialist</h2>
 
 
 <path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
@@ -21,8 +21,8 @@
  <br>
 <ul dir="auto">
    <li> I am a <code>Graduate with a Bachelor's degree in Information Technology </code> from Jazan University</li>
-  <li> I received training in the <code>Cybersecurity program</code>at KAUST academy.</li>
-  <li> I am currently studying to obtain<code>a Professional Certificate</code></li>
+  <li>passionate about software development, front-end technologies, and UI/UX design driven to create seamless and impactful user experiences.</li>
+  <li> I’m always eager to learn new technologies and improve my skills and contribute to projects that make a meaningful difference.</li>
   <li>📫 How to reach me: <strong><a href="mailto:hathami.almalki@gmail.com"><code>hathami.almalki@gmail.com</code></a></strong></li>
   <li>🤔 I’m currently open for a new <code>opportunity</code>. You can check my <a href="https://drive.google.com/file/d/1onYTIBTqsVZH6-Xzm-7s5fHQB3D1qHIe/view?usp=drivesdk" target="_blank" rel="noopener noreferrer"><code><strong>Resume</strong></code></a></li>
   <li>🤓 Always <code>learning new technologies</code> to stay updated.</li>
